@@ -6,45 +6,42 @@ O objetivo é demonstrar a automação do processo de monitoramento dos Acordos 
 
 ---
 
-## 📌 Estrutura do Repositório
+## 📁 Estrutura do Repositório
 
-├── README.md
-├── docs/
-│ ├── user-stories.md
-│ ├── requirements.md
-│ ├── rules.md
-│ ├── forms.md
-│ ├── notifications.md
-│ └── prototypes.md
-├── bizagi/
-│ └── fluxo-ans.pdf
-├── powerbi/
-│ └── painel-ans.png
-├── code/
-│ └── script_coleta_ans.py
-└── link_processo.md
+- `README.md` – Visão geral da solução e instruções
+- `docs/` – Documentação do processo:
+  - `user-stories.md` – Histórias do usuário
+  - `requirements.md` – Requisitos funcionais e não funcionais
+  - `rules.md` – Regras de negócio
+  - `forms.md` – Modelo de formulário de entrada
+  - `notifications.md` – Templates de notificação por e-mail
+  - `prototypes.md` – Protótipos e mockups
+- `bizagi/` – Fluxo do processo modelado em Bizagi (PDF)
+- `powerbi/` – Painel de indicadores e prints do Power BI
+- `code/` – Script de coleta e geração de dados (Python)
+- `link_processo.md` – Link de acesso ao processo automatizado em funcionamento
 
+---
 
-## 🧾 Entregas
+## ✅ Entregas
 
-✅ **1. Documentação Técnica**  
+### 1. Documentação Técnica
 Disponível na pasta `docs/`, contempla:
 
 - Histórias do usuário
-- Requisitos funcionais e não funcionais
-- Regras de negócio
-- Protótipos de interface
+- Requisitos (funcionais, não funcionais e regras)
+- Protótipos
 - Templates de notificação
-- Exemplos de formulário de entrada de dados
+- Formulário de entrada de dados
 
-📥 **2. Fluxo modelado no Bizagi**  
-O arquivo `fluxo-ans.pdf`, na pasta `bizagi/`, ilustra o processo completo da coleta à emissão de alertas.
+### 2. Fluxo Bizagi
+Arquivo PDF do processo modelado com início na coleta dos dados até o envio de alertas de não conformidade (`bizagi/fluxo-ans.pdf`).
 
-📊 **3. Dashboard Power BI**  
-Exemplos e prints do painel estão na pasta `powerbi/`, contendo KPIs mensais e insights.
+### 3. Painel Power BI
+Visualização mensal dos KPIs, com filtros por superintendência e indicador, disponível em `powerbi/`.
 
-🔗 **4. Link do processo automatizado em funcionamento**  
-Está descrito no arquivo `link_processo.md`.
+### 4. Link do Processo Automatizado
+Endereço para visualização do processo em funcionamento (Power Automate ou ambiente simulado), disponível em `link_processo.md`.
 
 ---
 
@@ -54,24 +51,12 @@ Está descrito no arquivo `link_processo.md`.
 - **Power BI** – Dashboards com indicadores e KPIs
 - **Bizagi** – Modelagem do fluxo do processo
 - **Power Automate** – Agendamento e notificações (simulado)
-- **Markdown/GitHub** – Documentação
+- **GitHub** – Organização e versionamento do projeto
 
 ---
 
-## 🧑‍💼 Contexto
+## 📚 Contexto
 
-Atualmente, os dados das superintendências são recebidos em planilhas Excel, sendo tratados manualmente para geração dos dashboards. Esse processo apresenta riscos como:
+Atualmente, os dados das superintendências são recebidos em planilhas Excel e tratados manualmente, o que:
 
-- Inconsistência nos dados
-- Atrasos na entrega de relatórios
-- Dificuldade na análise preditiva
-
-A proposta é substituir esse processo por uma solução automatizada, utilizando ferramentas livres e corporativas, garantindo **precisão, rastreabilidade e agilidade** na gestão dos ANS.
-
----
-
-## 📬 Contato
-
-Rômullo Gonçalves  
-romullodf@gmail.com
-
+- Introduz risco de erros e inconsistências
