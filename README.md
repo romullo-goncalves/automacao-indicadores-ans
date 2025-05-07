@@ -60,3 +60,14 @@ Endereço para visualização do processo em funcionamento (Power Automate ou am
 Atualmente, os dados das superintendências são recebidos em planilhas Excel e tratados manualmente, o que:
 
 - Introduz risco de erros e inconsistências
+- Gera atrasos na produção dos relatórios
+- Dificulta a análise preditiva de desempenho
+
+A solução proposta automatiza esse processo para promover **eficiência, rastreabilidade e confiabilidade**, alinhando-se à missão da GPQ de garantir a melhoria contínua e a visão sistêmica dos processos.
+
+---
+
+## 📬 Contato
+
+Rômullo Gonçalves  
+romullodf@gmail.com
