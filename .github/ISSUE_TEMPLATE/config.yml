@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Segurança ou problemas sensíveis
+    url: mailto:romullodf@gmail.com
+    about: Relate vulnerabilidades diretamente por e-mail.
