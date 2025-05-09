@@ -1,0 +1,25 @@
+name: Reportar Bug
+description: Relate um erro ou comportamento inesperado
+title: "[Bug] "
+labels: bug
+body:
+  - type: textarea
+    id: descricao
+    attributes:
+      label: Descrição do problema
+      placeholder: Descreva o que está acontecendo...
+    validations:
+      required: true
+  - type: textarea
+    id: passos
+    attributes:
+      label: Etapas para reproduzir
+      placeholder: Liste os passos para reproduzir o erro...
+  - type: textarea
+    id: esperado
+    attributes:
+      label: Comportamento esperado
+  - type: textarea
+    id: adicional
+    attributes:
+      label: Informações adicionais (logs, prints, etc)
