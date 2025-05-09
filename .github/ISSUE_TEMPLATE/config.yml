@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Segurança ou problemas sensíveis
+  - name: Reportar vulnerabilidade de segurança
     url: mailto:romullodf@gmail.com
-    about: Relate vulnerabilidades diretamente por e-mail.
+    about: Caso você identifique uma falha de segurança, entre em contato por e-mail. Não crie uma issue pública.
