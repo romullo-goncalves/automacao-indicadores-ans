@@ -1,0 +1,13 @@
+name: Sugerir Melhoria
+description: Proponha uma nova funcionalidade ou ajuste
+title: "[Melhoria] "
+labels: enhancement
+body:
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Descreva sua sugestão
+      placeholder: O que você gostaria de ver implementado?
+      description: Seja o mais claro possível
+    validations:
+      required: true
