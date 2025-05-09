@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+.env
+
+# Power BI
+*.pbix
+*.pbit
+*.pbix~*
+
+# VSCode
+.vscode/
+
+# Outros
+.DS_Store
+Thumbs.db
