@@ -25,7 +25,7 @@ O preenchimento correto deste formulário é fundamental para o sucesso do proce
 
 ## 💡 Observações
 
-- O formulário deve ser preenchido preferencialmente em formato Excel (.xlsx), conforme modelo fornecido.
+- O formulário deve ser preenchido em formato Excel (.xlsx), conforme modelo fornecido.
 - Os campos obrigatórios devem estar 100% preenchidos. Dados incompletos serão rejeitados pelo validador automático.
 - O campo “Justificativa” deve ser preenchido sempre que houver desvio em relação à meta estabelecida.
 - Os valores devem ser consistentes com a unidade de medida informada.
