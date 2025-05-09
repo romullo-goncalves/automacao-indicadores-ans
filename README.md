@@ -8,25 +8,25 @@ O objetivo é demonstrar a automação do processo de monitoramento dos Acordos 
 
 ## 📁 Estrutura do Repositório
 
-- `README.md` – Visão geral da solução e instruções
-- `docs/` – Documentação do processo:
-  - `user-stories.md` – Histórias do usuário
-  - `requirements.md` – Requisitos funcionais e não funcionais
-  - `rules.md` – Regras de negócio
-  - `forms.md` – Modelo de formulário de entrada
-  - `notifications.md` – Templates de notificação por e-mail
-  - `prototypes.md` – Protótipos e mockups
-- `bizagi/` – Fluxo do processo modelado em Bizagi (PDF)
-- `powerbi/` – Painel de indicadores e prints do Power BI
-- `code/` – Script de coleta e geração de dados (Python)
-- `link_processo.md` – Link de acesso ao processo automatizado em funcionamento
+- [`README.md`](README.md) – Visão geral da solução e instruções
+- [`docs/`](docs/) – Documentação do processo:
+  - [`user-stories.md`](docs/user-stories.md) – Histórias do usuário
+  - [`requirements.md`](docs/requirements.md) – Requisitos funcionais e não funcionais
+  - [`rules.md`](docs/rules.md) – Regras de negócio
+  - [`forms.md`](docs/forms.md) – Modelo de formulário de entrada
+  - [`notifications.md`](docs/notifications.md) – Templates de notificação por e-mail
+  - [`prototypes.md`](docs/prototypes.md) – Protótipos e mockups
+- [`bizagi/`](bizagi/) – Fluxo do processo modelado em Bizagi (PDF)
+- [`powerbi/`](powerbi/) – Painel de indicadores e prints do Power BI
+- [`code/`](code/) – Script de coleta e geração de dados (Python)
+- [`link_processo.md`](link_processo.md) – Link de acesso ao processo automatizado em funcionamento
 
 ---
 
 ## ✅ Entregas
 
 ### 1. Documentação Técnica
-Disponível na pasta `docs/`, contempla:
+Disponível na pasta [`docs/`](docs/), contempla:
 
 - Histórias do usuário
 - Requisitos (funcionais, não funcionais e regras)
@@ -35,13 +35,13 @@ Disponível na pasta `docs/`, contempla:
 - Formulário de entrada de dados
 
 ### 2. Fluxo Bizagi
-Arquivo PDF do processo modelado com início na coleta dos dados até o envio de alertas de não conformidade (`bizagi/fluxo-ans.pdf`).
+Arquivo PDF do processo modelado com início na coleta dos dados até o envio de alertas de não conformidade [`bizagi/fluxo-ans.pdf`](bizagi/fluxo-ans.pdf)
 
 ### 3. Painel Power BI
-Visualização mensal dos KPIs, com filtros por superintendência e indicador, disponível em `powerbi/`.
+Visualização mensal dos KPIs, com filtros por superintendência e indicador, disponível em [`powerbi/`](powerbi/)
 
 ### 4. Link do Processo Automatizado
-Endereço para visualização do processo em funcionamento (Power Automate ou ambiente simulado), disponível em `link_processo.md`.
+Endereço para visualização do processo em funcionamento (Power Automate ou ambiente simulado), disponível em [`link_processo.md`](link_processo.md)
 
 ---
 
@@ -69,5 +69,5 @@ A solução proposta automatiza esse processo para promover **eficiência, rastr
 
 ## 📬 Contato
 
-Rômullo Gonçalves  
-romullodf@gmail.com
+**Rômullo Gonçalves**  
+📧 [romullodf@gmail.com](mailto:romullodf@gmail.com)
