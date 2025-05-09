@@ -16,3 +16,5 @@ Este repositório foi desenvolvido como parte de uma avaliação técnica e enco
 - Descrição do problema ou sugestão
 - Etapas para reprodução (se aplicável)
 - Proposta de solução ou melhoria (se houver)
+
+> ⚠️ **Nota:** Se você identificar uma vulnerabilidade de segurança, por favor **não abra uma issue pública**. Em vez disso, siga as orientações descritas em [`SECURITY.md`](./SECURITY.md).
