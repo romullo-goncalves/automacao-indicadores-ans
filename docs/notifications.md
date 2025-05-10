@@ -1,12 +1,23 @@
-# ✉️ Templates de Notificação por E-mail – Automação dos ANS
+## 🛑 Template 1 – Dados Incompletos ou Inválidos
 
-Este documento apresenta os modelos de mensagens que serão utilizados nas notificações automáticas geradas durante o processo de monitoramento dos ANS.
+**Assunto:** ⚠️ Dados incompletos ou inválidos – [NOME_DA_SUPERINTENDÊNCIA/GERÊNCIA]
 
-As mensagens são enviadas por meio de ferramentas de automação (ex: Power Automate) para informar desvios, pendências ou confirmação de atualização dos dados.
+**Mensagem:**
+
+> Prezado(a) [NOME_DO_RESPONSÁVEL],
+>
+> Identificamos que os dados enviados pela sua superintendência/gerência referentes ao mês de **[MÊS_REFERÊNCIA]** estão **incompletos ou contêm inconsistências**.
+>
+> Solicitamos que revise o conteúdo do formulário e reenvie os dados corrigidos o quanto antes para garantir a consolidação adequada dos indicadores.
+>
+> Em caso de dúvidas, entre em contato com a equipe de Processos.
+>
+> Atenciosamente,  
+> *Sistema de Monitoramento de Indicadores ANS*
 
 ---
 
-## 📬 Template 1 – Indicador Fora do Padrão
+## 📬 Template 2 – Indicador Fora do Padrão
 
 **Assunto:** 🚨 Indicador fora do padrão – [NOME_DO_INDICADOR]
 
@@ -26,17 +37,17 @@ As mensagens são enviadas por meio de ferramentas de automação (ex: Power Aut
 
 ---
 
-## 🕑 Template 2 – Dados Não Enviados
+## 🕑 Template 3 – Dados Não Enviados
 
-**Assunto:** ⏰ Pendência no envio de dados – [NOME_DA_SUPERINTENDÊNCIA]
+**Assunto:** ⏰ Pendência no envio de dados – [NOME_DA_SUPERINTENDÊNCIA/GERÊNCIA]
 
 **Mensagem:**
 
 > Prezado(a) [NOME_DO_RESPONSÁVEL],
 >
-> Verificamos que os dados da sua superintendência para o mês de **[MÊS_REFERÊNCIA]** ainda **não foram recebidos** no sistema.
+> Verificamos que os dados da sua superintendência/gerência para o mês de **[MÊS_REFERÊNCIA]** ainda **não foram recebidos** no sistema.
 >
-> Solicitamos o envio do formulário de indicadores até o **3º dia útil do mês**, conforme as diretrizes vigentes.
+> Solicitamos o envio do formulário de indicadores até o **dia ##**, conforme as diretrizes vigentes.
 >
 > Em caso de dúvidas, entre em contato com a equipe de Processos.
 >
@@ -45,7 +56,7 @@ As mensagens são enviadas por meio de ferramentas de automação (ex: Power Aut
 
 ---
 
-## ✅ Template 3 – Dados Atualizados com Sucesso
+## ✅ Template 4 – Dados Atualizados com Sucesso
 
 **Assunto:** ✅ Indicadores atualizados – [MÊS_REFERÊNCIA]
 
