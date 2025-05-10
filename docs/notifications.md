@@ -17,7 +17,26 @@
 
 ---
 
-## 📬 Template 2 – Indicador Fora do Padrão
+## 🕑 Template 2 – Dados Não Enviados
+
+**Assunto:** ⏰ Pendência no envio de dados – [NOME_DA_SUPERINTENDÊNCIA/GERÊNCIA]
+
+**Mensagem:**
+
+> Prezado(a) [NOME_DO_RESPONSÁVEL],
+>
+> Verificamos que os dados da sua superintendência/gerência para o mês de **[MÊS_REFERÊNCIA]** ainda **não foram recebidos** no sistema.
+>
+> Solicitamos o envio do formulário de indicadores até o **dia ##**, conforme as diretrizes vigentes.
+>
+> Em caso de dúvidas, entre em contato com a equipe de Processos.
+>
+> Atenciosamente,  
+> *Sistema de Monitoramento de Indicadores ANS*
+
+---
+
+## 📬 Template 3 – Indicador Fora do Padrão
 
 **Assunto:** 🚨 Indicador fora do padrão – [NOME_DO_INDICADOR]
 
@@ -31,25 +50,6 @@
 > **Meta:** [META_DO_INDICADOR]
 >
 > Por favor, verifique e registre justificativa no formulário padrão, caso necessário.
->
-> Atenciosamente,  
-> *Sistema de Monitoramento de Indicadores ANS*
-
----
-
-## 🕑 Template 3 – Dados Não Enviados
-
-**Assunto:** ⏰ Pendência no envio de dados – [NOME_DA_SUPERINTENDÊNCIA/GERÊNCIA]
-
-**Mensagem:**
-
-> Prezado(a) [NOME_DO_RESPONSÁVEL],
->
-> Verificamos que os dados da sua superintendência/gerência para o mês de **[MÊS_REFERÊNCIA]** ainda **não foram recebidos** no sistema.
->
-> Solicitamos o envio do formulário de indicadores até o **dia ##**, conforme as diretrizes vigentes.
->
-> Em caso de dúvidas, entre em contato com a equipe de Processos.
 >
 > Atenciosamente,  
 > *Sistema de Monitoramento de Indicadores ANS*
