@@ -14,7 +14,7 @@ O fluxo completo está estruturado em três grandes subprocessos:
 - Detecção automática de e-mails com anexos de indicadores (Power Automate);
 - Coleta dos dados do arquivo recebido;
 - Validação de estrutura e tipos de dados com Python;
-- Armazenamento dos dados válidos em SharePoint ou Excel (serviço web);
+- Armazenamento dos dados válidos em SharePoint ou Excel;
 - Notificação imediata ao remetente em caso de erros.
   
 ### 2. **Verificação de Envios por Setor**
