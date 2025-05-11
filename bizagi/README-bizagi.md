@@ -44,6 +44,5 @@ O fluxo completo está estruturado em três grandes subprocessos:
 - [`docs/notifications.md`](../docs/notifications.md): Templates usados nas mensagens automáticas
 - [`docs/rules.md`](../docs/rules.md): Regras de negócio e lógica de decisão
 - [`bizagi/capturas`](../bizagi/capturas): Capturas de tela em PNG
-Exemplo de imagem: Exemplo do Painel
 
 ---
