@@ -82,9 +82,10 @@ Ou para filtrar por gerência:
 ## 🧠 Destaques Técnicos
 
 - Colunas calculadas e medidas DAX otimizadas para performance
-- Controle de filtros por meio de medida de estado (`SegmentacaoAtiva`)
+- Controle de filtros
 - Formatação condicional e legibilidade priorizadas
 - Layout responsivo e agrupamento temático dos visuais
+- Paleta de cores inspirada na identidade visual do Sistema Indústria
 
 ---
 
