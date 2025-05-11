@@ -51,7 +51,7 @@ O painel permite o **monitoramento mensal dos indicadores ANS** por superintend�
 O foco do painel é oferecer **clareza visual, navegação intuitiva e suporte direto à tomada de decisão**.
 
 ### 4. Link do Processo Automatizado
-Endereço para visualização do processo em funcionamento (Power Automate ou ambiente simulado), disponível em [`link_processo.md`](link_processo.md)
+Endereço para visualização do processo em funcionamento, disponível em [`link_processo.md`](link_processo.md)
 
 ---
 
