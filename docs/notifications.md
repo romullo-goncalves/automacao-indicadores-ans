@@ -2,7 +2,7 @@
 
 **Assunto:** Arquivo não encontrado para validação dos ANS
 
-Olá, [NOME DO REMETENTE OU SETOR],
+Prezado(a),
 
 Recebemos seu e-mail com o assunto **"Dados - ANS"**, mas **nenhum anexo foi identificado** na mensagem. Para que o processo de monitoramento automatizado continue corretamente, é necessário que o e-mail contenha um arquivo Excel (.xlsx) com os dados esperados.
 
