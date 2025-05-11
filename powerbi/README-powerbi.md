@@ -93,5 +93,5 @@ Ou para filtrar por gerência:
 - [`powerbi/Dashboard.pbix`](./Dashboard.pbix): Arquivo original do painel
 - [`powerbi/capturas/`](./capturas/): Capturas de tela em PNG
 - Exemplo de imagem:
-  ![Exemplo do Painel](./capturas/Dashboard_01.png)
+  ![Exemplo do Painel](./capturas/Dashboard_01.pdf)
 
