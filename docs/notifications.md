@@ -1,4 +1,26 @@
-## 🛑 Template 1 – Dados Incompletos ou Inválidos
+## 📨 Template 1: E-mail recebido sem anexo
+
+**Assunto:** Arquivo não encontrado para validação dos ANS
+
+Olá, [NOME DO REMETENTE OU SETOR],
+
+Recebemos seu e-mail com o assunto **"Dados - ANS"**, mas **nenhum anexo foi identificado** na mensagem. Para que o processo de monitoramento automatizado continue corretamente, é necessário que o e-mail contenha um arquivo Excel (.xlsx) com os dados esperados.
+
+### 📎 O que você deve fazer:
+1. Verifique se o arquivo foi corretamente anexado.
+2. Certifique-se de que o formato está correto (planilha `.xlsx`).
+3. Reenvie o e-mail para o mesmo endereço com o anexo incluído.
+
+---
+
+Caso persistam dúvidas, entre em contato com a equipe responsável pela automação.
+
+Atenciosamente,  
+**Sistema de Monitoramento ANS**
+
+---
+
+## 🛑 Template 2 – Dados Incompletos ou Inválidos
 
 **Assunto:** ⚠️ Dados incompletos ou inválidos – [NOME_DA_SUPERINTENDÊNCIA/GERÊNCIA]
 
@@ -17,7 +39,7 @@
 
 ---
 
-## 🕑 Template 2 – Dados Não Enviados
+## 🕑 Template 3 – Dados Não Enviados
 
 **Assunto:** ⏰ Pendência no envio de dados – [NOME_DA_SUPERINTENDÊNCIA/GERÊNCIA]
 
@@ -36,7 +58,7 @@
 
 ---
 
-## 📬 Template 3 – Indicador Fora do Padrão
+## 📬 Template 4 – Indicador Fora do Padrão
 
 **Assunto:** 🚨 Indicador fora do padrão – [NOME_DO_INDICADOR]
 
