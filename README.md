@@ -40,6 +40,16 @@ Arquivo PDF do processo modelado com início na coleta dos dados até o envio de
 ### 3. Painel Power BI
 Visualização mensal dos KPIs, com filtros por superintendência e indicador, disponível em [`powerbi/`](powerbi/)
 
+O painel permite o **monitoramento mensal dos indicadores ANS** por superintendência, gerência, indicador, complexidade e período. Ele apresenta:
+
+- Cartões de resumo com o total de metas, metas atingidas e percentuais;
+- Gráficos empilhados por superintendência e por gerência, facilitando a comparação do desempenho;
+- Tabela detalhada com os dados de cada indicador (mês, meta, resultado, status);
+- Filtros interativos e botões de reset;
+- Data de atualização visível, reforçando a rastreabilidade.
+
+O foco do painel é oferecer **clareza visual, navegação intuitiva e suporte direto à tomada de decisão**.
+
 ### 4. Link do Processo Automatizado
 Endereço para visualização do processo em funcionamento (Power Automate ou ambiente simulado), disponível em [`link_processo.md`](link_processo.md)
 
