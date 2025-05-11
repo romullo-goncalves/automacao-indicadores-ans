@@ -8,7 +8,7 @@ O processo tem como objetivo substituir o monitoramento manual por uma abordagem
 
 ## 🧭 Visão Geral do Processo
 
-O fluxo completo está estruturado em quatro grandes subprocessos:
+O fluxo completo está estruturado em três grandes subprocessos:
 
 ### 1. **Processamento Individual por E-mail**
 - Detecção automática de e-mails com anexos de indicadores (Power Automate);
@@ -16,19 +16,15 @@ O fluxo completo está estruturado em quatro grandes subprocessos:
 - Validação de estrutura e tipos de dados com Python;
 - Armazenamento dos dados válidos em SharePoint ou Excel (serviço web);
 - Notificação imediata ao remetente em caso de erros.
-
-### 2. **Validação Final e Dashboard**
+  
+### 2. **Verificação de Envios por Setor**
+- Audita os envios feitos por cada superintendência;
+- Caso alguma não tenha enviado os dados, é enviado alerta ao gestor correspondente.
+  
+### 3. **Validação Final e Dashboard**
 - Avalia se os valores reais estão dentro dos limites das metas definidas;
 - Em caso de não conformidade, é enviado alerta ao gestor da unidade;
 - Atualização automatizada do dashboard com os dados validados.
-
-### 3. **Verificação de Envios por Setor**
-- Audita os envios feitos por cada superintendência;
-- Caso alguma não tenha enviado os dados, é enviado alerta ao gestor correspondente.
-
-### 4. **Execução Programada**
-- O processo é executado automaticamente em ciclos diários durante o período de envio (via timer);
-- A consolidação final ocorre ao fim do prazo, garantindo que todas as superintendências tenham sido tratadas.
 
 ---
 
@@ -44,13 +40,8 @@ O fluxo completo está estruturado em quatro grandes subprocessos:
 
 ## 🗂 Arquivos Relacionados
 
-- [`bizagi/fluxo-ans.pdf`](./fluxo-ans.pdf): Fluxo completo exportado em PDF
+- [`bizagi/fluxo-ans.pdf`](./processo.pdf): Fluxo completo exportado em PDF
 - [`docs/notifications.md`](../docs/notifications.md): Templates usados nas mensagens automáticas
 - [`docs/rules.md`](../docs/rules.md): Regras de negócio e lógica de decisão
 
 ---
-
-## 📬 Contato
-
-**Rômullo Gonçalves**  
-📧 [romullodf@gmail.com](mailto:romullodf@gmail.com)
