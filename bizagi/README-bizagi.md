@@ -40,7 +40,7 @@ O fluxo completo está estruturado em três grandes subprocessos:
 
 ## 🗂 Arquivos Relacionados
 
-- [`bizagi/fluxo-ans.pdf`](./processo.pdf): Fluxo completo exportado em PDF
+- [`bizagi/Processo.pdf`](./Processo.pdf): Fluxo completo exportado em PDF
 - [`docs/notifications.md`](../docs/notifications.md): Templates usados nas mensagens automáticas
 - [`docs/rules.md`](../docs/rules.md): Regras de negócio e lógica de decisão
 
