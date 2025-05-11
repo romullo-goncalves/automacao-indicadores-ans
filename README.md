@@ -60,7 +60,8 @@ Endereço para visualização do processo em funcionamento, disponível em [`lin
 - **Python** – Coleta e formatação dos dados dos ANS
 - **Power BI** – Dashboards com indicadores e KPIs
 - **Bizagi** – Modelagem do fluxo do processo
-- **Power Automate** – Agendamento e notificações (simulado)
+- **Power Automate** – Agendamento e notificações
+- **Power Apps** - Formulário de envio de ANS
 - **GitHub** – Organização e versionamento do projeto
 
 ---
