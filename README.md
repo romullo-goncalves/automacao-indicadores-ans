@@ -18,7 +18,7 @@ O objetivo é demonstrar a automação do processo de monitoramento dos Acordos 
   - [`prototypes.md`](docs/prototypes.md) – Protótipos e mockups
 - [`bizagi/`](bizagi/) – Fluxo do processo modelado em Bizagi (PDF)
 - [`powerbi/`](powerbi/) – Painel de indicadores e prints do Power BI
-- [`code/`](code/) – Script de coleta e geração de dados (Python)
+- [`code/`](code/) – Scripts em Python
 - [`link_processo.md`](link_processo.md) – Link de acesso ao processo automatizado em funcionamento
 
 ---
