@@ -40,7 +40,7 @@ Este fluxo automatiza o recebimento, validação e consolidação dos dados dos 
 
 ### 🌐 5. HTTP: Enviar para Azure Function
 - Método: `POST`
-- URL: `https://funcaovalidar.azurewebsites.net/api/HttpTrigger_validate_excel_base64?code=chaveaqui`
+- URL: `https://funcaovalidar.azurewebsites.net/api/HttpTrigger_validate_excel_base64?code=chaveaqui` //link genérico e não funcional
 - Headers: `Content-Type: application/json`
 - Body: `@{variables('AnexosXLSX')}`
 - Saída esperada: JSON com validações por arquivo e aba
